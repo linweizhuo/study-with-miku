@@ -1,5 +1,5 @@
-  <title>Study with Miku 应用</title>
-    <h1>Welcome to Study with Miku App</h1>
+<h1>Study with miku应用</h1>
+<h2>Welcome to Study with Miku App</h2>
     <p>This is an application built using autox.js for studying with Hatsune Miku.</p>
     <p>UI部分来自于 <a href="https://github.com/WenqiOfficial/StudyWithMiku">STUDY WITH MIKU</a></p>
     <p>离线和联网版本(话说真的有用吗)</p>
